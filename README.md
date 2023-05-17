@@ -1,2 +1,1 @@
-# ENGAGE
-O colectie de aplicatii ce faciliteaza aprofundarea diferitelor concepte informatice
+Pentru utilizare descarcati proiectul si rulati executabilul Launcher.exe
